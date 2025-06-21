@@ -58,7 +58,7 @@ A role-based internal audit application built using **React Native**, supporting
 ```bash
 # Clone the repo
 git clone https://github.com/saitejavankayala/AuditApp_Assignment.git
-cd auditApp
+cd AuditApp_Assignment
 
 # Install dependencies
 npm install
