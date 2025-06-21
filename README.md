@@ -4,6 +4,12 @@ A role-based internal audit application built using **React Native**, supporting
 
 ---
 
+## 📽️ Demo
+
+![Audit App Demo](./src/assets/auditapp.gif)
+
+---
+
 ## 📱 Features
 
 - 🔐 **Role-Based Login**: Choose between Admin, Auditor, or Viewer roles.
