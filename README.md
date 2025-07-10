@@ -4,6 +4,11 @@ A role-based internal audit application built using **React Native**, supporting
 
 ---
 
+# APK will be in:
+release/app-release.apk
+
+---
+
 ## 📽️ Demo
 
 ![Audit App Demo](./src/assets/auditapp.gif)
