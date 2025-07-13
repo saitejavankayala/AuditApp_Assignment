@@ -8,10 +8,17 @@ A role-based internal audit application built using **React Native**, supporting
 📥 **[Click here to download the APK](https://github.com/saitejavankayala/AuditApp_Assignment/tree/master/release/app-release.apk)**
 
 ---
+## 📽️ App Demos
 
-## 📽️ Demo
+### 🍎 iOS Demo
+
+![iOS Audit App Demo](./src/assets/ios_simulator_recording.gif)
+
+
+### 🤖 Android Demo
 
 ![Audit App Demo](./src/assets/auditapp.gif)
+
 
 ---
 
